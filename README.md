@@ -52,9 +52,9 @@ Welcome to my GitHub profile! I'm a **Computer Science student** passionate abou
 
 I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyjnavarro/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyjnavarro@gmail.com)
 
 ---
 
-⭐️ From [Cyryl John Navarro](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Cyryl John Navarro](https://github.com/TheFreeloader)

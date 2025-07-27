@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a **Computer Science student** passionate about building innovative solutions and continuously expanding my technical expertise.
 
 ## 🚀 About Me
-- 🎓 **BSCS Student** - Currently pursuing my Bachelor's degree in Computer Science
+- 🎓 **BSCS Graduate** - I graduated with a Bachelor's degree in Computer Science from Naga College Foundation
 - 💻 **Aspiring Full-Stack Developer** - Comfortable working with both backend and frontend technologies
 - 📚 **Lifelong Learner** - Always exploring new technologies and improving my craft
 - 🎯 **Goal-Oriented** - Focused on building practical, real-world applications
